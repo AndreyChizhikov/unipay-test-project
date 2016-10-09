@@ -2,7 +2,7 @@
 Unipay-test-project
 
 For run tests:
-  -clone project
-  -open terminal
-  -go to folder of project
-  -run commands: mvn clean tests
+  1. clone project
+  2. open terminal
+  3. go to folder of project
+  4. run commands: mvn clean tests
